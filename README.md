@@ -1,2 +1,2 @@
 # Scale-Model-Shop
-A project made for training porposes
+A project made for training purposes
